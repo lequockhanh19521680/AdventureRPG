@@ -41,3 +41,18 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Ocean
+    uniqueID: 280983181
+    locked: 0
+  - name: SolfSoil
+    uniqueID: 1012263401
+    locked: 0
+  - name: ShallowWater
+    uniqueID: 1217180037
+    locked: 0
+  - name: Ground
+    uniqueID: 2720329065
+    locked: 0
+  - name: Player
+    uniqueID: 608504565
+    locked: 0
